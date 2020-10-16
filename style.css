@@ -1,0 +1,20 @@
+body    {
+    background-color: lightgrey;
+}
+nav {
+    padding-left: 1.5em;
+    padding-top: 1.5em;
+}
+h1 {
+    color: navy;
+    font-size: 18pt;
+    padding: 0.5em;
+    font-weight: bold;
+}
+p   {
+    padding: 0.5em;
+    font-size: medium;
+}
+footer  {
+    font-size: 10pt;
+}
